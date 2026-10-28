@@ -14,7 +14,7 @@ Detecting objects in images using the YOLOv8 nano model and Python.
 
 ## How to Run
 
-git clone https://github.com/mohammadtah03/yolov8-object-detection.git
+git clone https://github.com/mohammadtah03/yolov8n-object-detection.git
 cd yolov8-object-detection
 pip install -r requirements.txt
 python main.py
